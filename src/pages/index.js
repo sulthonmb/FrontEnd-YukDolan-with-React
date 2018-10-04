@@ -78,6 +78,9 @@ class Home extends React.Component{
                                     “Yukdolan! menawarkan fasilitas yang memuaskan berlibur terasa sangat mudah karena semua kebutuhan mulai tiket, hotel dan tour guide sudah disiapkan.”                               
                                 </div>
                             </div>
+                            <div class="">
+
+                            </div>
                         </div>
                     </div>
                 </div>  
